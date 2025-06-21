@@ -77,7 +77,7 @@ python lane_detector_video_updated.py
 
 ## 📜 License
 
-MIT License. Feel free to use, modify, and distribute.
+Feel free to use, modify, and distribute.
 
 ---
 
