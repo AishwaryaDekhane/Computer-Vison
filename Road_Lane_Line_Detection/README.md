@@ -23,10 +23,10 @@ This repository contains Python scripts for detecting lane lines in both images 
 5. **Overlay**: Draw detected lines back on the image/video.
 
 ---
-# Sequence Diagram
+## Sequence Diagram
 ![Sequence Diagram](./chart.png)
 
-# Digram Flow
+## Digram Flow
 ![Flow](./lane_detection_flow_diagram.png)
 
 ---
